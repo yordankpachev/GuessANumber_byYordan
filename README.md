@@ -1,2 +1,2 @@
 # GuessANumber_byYordan
-My second project
+One more simple console game and my second project
